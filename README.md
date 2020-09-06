@@ -10,6 +10,10 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
+## Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCilento93/intro-html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 ## Some samples
 
 ```markdown
