@@ -10,6 +10,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
+## Direct link to the html page
+Final link of the website is here https://mcilento93.github.io/intro-html/
+
 ## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCilento93/intro-html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -34,8 +37,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
-
-Final link of the website is here https://mcilento93.github.io/intro-html/
